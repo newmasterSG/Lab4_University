@@ -1,0 +1,14 @@
+E:\NewVSCODE\Laboratory4OOP\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+E:\NewVSCODE\Laboratory4OOP\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+E:\NewVSCODE\Laboratory4OOP\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+E:\NewVSCODE\Laboratory4OOP\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+E:\NewVSCODE\Laboratory4OOP\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+E:\NewVSCODE\Laboratory4OOP\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.AssemblyReference.cache
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+E:\NewVSCODE\Laboratory4OOP\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache

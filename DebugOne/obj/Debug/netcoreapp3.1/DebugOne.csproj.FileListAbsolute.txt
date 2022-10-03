@@ -1,0 +1,14 @@
+E:\NewVSCODE\Laboratory4OOP\DebugOne\bin\Debug\netcoreapp3.1\DebugOne.exe
+E:\NewVSCODE\Laboratory4OOP\DebugOne\bin\Debug\netcoreapp3.1\DebugOne.deps.json
+E:\NewVSCODE\Laboratory4OOP\DebugOne\bin\Debug\netcoreapp3.1\DebugOne.runtimeconfig.json
+E:\NewVSCODE\Laboratory4OOP\DebugOne\bin\Debug\netcoreapp3.1\DebugOne.runtimeconfig.dev.json
+E:\NewVSCODE\Laboratory4OOP\DebugOne\bin\Debug\netcoreapp3.1\DebugOne.dll
+E:\NewVSCODE\Laboratory4OOP\DebugOne\bin\Debug\netcoreapp3.1\DebugOne.pdb
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.csproj.AssemblyReference.cache
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.AssemblyInfoInputs.cache
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.AssemblyInfo.cs
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.dll
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.pdb
+E:\NewVSCODE\Laboratory4OOP\DebugOne\obj\Debug\netcoreapp3.1\DebugOne.genruntimeconfig.cache
