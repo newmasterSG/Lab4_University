@@ -6,6 +6,6 @@ namespace ApplicationLicense
 {
     internal interface IWorkable
     {
-        void DoWork();
+        void DoWork(int a,int b);
     }
 }

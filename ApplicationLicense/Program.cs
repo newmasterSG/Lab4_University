@@ -12,7 +12,7 @@ namespace ApplicationLicense
             code = Convert.ToInt32(Console.ReadLine());
             Application application = new Application(code);
             Console.WriteLine($"Your code : {code}");
-            application.DoWork();
+            application.DoWork(10,2);
         }
     }
 }
